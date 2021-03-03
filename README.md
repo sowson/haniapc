@@ -23,7 +23,7 @@ https://github.com/acidanthera/OpenCorePkg/blob/master/Docs/Configuration.pdf
 - 1 x Graphic Processor Unit: XFX AMD Radeon VII 16GB HBM2 (Renata)
 - 1 x Power Supply: Corsair SF Series SF750 750W 80 PLUS Platinum SFX (Lucja)
 - 1 x BCM94352Z/DW1560 for WiFi and Bluetooth (native replacement on motherboard) (Justyna)
-- 1 x Operating System: macOS Big Sur 11.2
+- 1 x Operating System: macOS Big Sur 11.2.2
 
 ## What works
 
