@@ -12,7 +12,7 @@ https://github.com/dortania/OpenCore-Desktop-Guide
 
 https://github.com/acidanthera/OpenCorePkg/blob/master/Docs/Configuration.pdf
 
-## Hardware
+## Hardware Udpated
 
 - 1 x Case: NCase M1 V6.1 Black (Hania)
 - 1 x Motherboard: Asus ROG Strix Z390-I Gaming M-ITX (Marta)
@@ -20,12 +20,12 @@ https://github.com/acidanthera/OpenCorePkg/blob/master/Docs/Configuration.pdf
 - 1 x Central Processor Unit Cooling AIO: Asus ROG Strix LC 240 AiO CPU Cooler with Aura Sync RGB (Oliwia)
 - 1 x Random Access Memory: Corsair Vengeance LPX DDR4 64GB 3200MHz CL16 (Ola i Zosia)
 - 1 x Solid State Drive for OS: Western Digital SSD 2TB SN750 NVMe (Magda)
-- 1 x Graphic Processor Unit: XFX AMD Radeon VII 16GB HBM2 (Renata)
+- 1 x Graphic Processor Unit: AMD Radeon RX 6900 XT 16GB DDR6 (Renata)
 - 1 x Power Supply: Corsair SF Series SF750 750W 80 PLUS Platinum SFX (Lucja)
 - 1 x BCM94352Z/DW1560 for WiFi and Bluetooth (native replacement on motherboard) (Justyna)
-- 1 x Operating System: macOS Big Sur 11.2.2
+- 1 x Operating System: macOS Monterey 12.0.1
 
-## What works
+## What works (ALL ;-))
 
 - Sleep / Wake
 - Power Nap (sleep with background operations such as Time Machine)
@@ -33,43 +33,31 @@ https://github.com/acidanthera/OpenCorePkg/blob/master/Docs/Configuration.pdf
 - Ethernet
 - Bluetooth
 - Wi-Fi
-- 15 USB ports
+- USB ports
 - AMD DRM for Music, Safari, TV, Plex, Prime, IQSV
 
-## My Workstation
+## My Workstation as MacPro 2019
 
 https://iblog.isowa.io/2020/03/02/hania-pc-well-it-needs-macos/
 
 ## macOS System Information
 
-<details>
+![](IMAGES/macOS/01.png)
 
-## USBMap
+![](IMAGES/macOS/02.png)
 
-Selected XHC ports (max 15)
+![](IMAGES/macOS/03.png)
 
-| Ports | Type | Description |
-| --- | --- | --- |
-| HS02 | USB 3 Type C connector | Rear USB Type-C |
-| HS05 | USB 2 Type A connector | Rear USB 2.0 (black) |
-| HS06 | USB 2 Type A connector | Rear USB 2.0 (black) |
-| HS07 | USB 3 Standard-A connector | Rear USB 3.1 Gen 1 (blue) |
-| HS08 | USB 3 Standard-A connector | Rear USB 3.1 Gen 1 (blue) |
-| HS09 | USB 3 Standard-A connector | Front USB 3.1 Gen 1 |
-| HS10 | USB 3 Standard-A connector | Front USB 3.1 Gen 1 |
-| HS14 | Internal connector | Bluetooth/Wifi - BCM2045A0 |
-| SS03 | USB 3 Standard-A connector | Rear USB 3.1 Gen 2 (red) |
-| SS04 | USB 3 Standard-A connector | Rear USB 3.1 Gen 2 (red) |
-| SS06 | USB 3 Type C connector | Rear USB Type-C |
-| SS07 | USB 3 Standard-A connector | Rear USB 3.1 Gen 1 (blue) |
-| SS08 | USB 3 Standard-A connector | Rear USB 3.1 Gen 1 (blue) |
-| SS09 | USB 3 Standard-A connector | Front USB 3.1 Gen 1 |
-| SS10 | USB 3 Standard-A connector | Front USB 3.1 Gen 1 |
-| PATCH | USB 3 Type C connector | Front USB Type-C |
+![](IMAGES/macOS/04.png)
+
+![](IMAGES/macOS/05.png)
+
+![](IMAGES/macOS/06.png)
 
 ## BIOS settings
 
 <details>
+
 <summary>Screenshots</summary>
 
 ![](IMAGES/bios/JPEG/191214130141.jpg)
