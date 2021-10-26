@@ -1,4 +1,4 @@
-# Hackintosh Big Sur Installation Guide
+# Hackintosh Monterey Installation Guide
 
 Thanks @czombos for BIOS setup images and some ideas I used here!
 
