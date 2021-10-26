@@ -54,6 +54,10 @@ https://iblog.isowa.io/2020/03/02/hania-pc-well-it-needs-macos/
 
 ![](IMAGES/macOS/06.png)
 
+## GeekBench
+
+https://browser.geekbench.com/v5/compute/3583655
+
 ## BIOS settings
 
 <details>
