@@ -22,8 +22,8 @@ https://github.com/acidanthera/OpenCorePkg/blob/master/Docs/Configuration.pdf
 - 1 x Solid State Drive for OS: Western Digital SSD 2TB SN750 NVMe (Magda)
 - 1 x Graphic Processor Unit: AMD Radeon RX 6900 XT 16GB DDR6 (Renata)
 - 1 x Power Supply: Corsair SF Series SF750 750W 80 PLUS Platinum SFX (Lucja)
-- 1 x BCM94352Z/DW1560 for WiFi and Bluetooth (native replacement on motherboard) (Justyna)
-- 1 x Operating System: macOS Monterey 12.0.1
+- 1 x BCM94360NG M.2 for WiFi and Bluetooth (native replacement on motherboard) (Justyna)
+- 1 x Operating System: macOS Monterey 12.0.1 or Big Sur 11.6.1 ;-).
 
 ## What works (ALL ;-))
 
